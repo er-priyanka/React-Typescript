@@ -1,1 +1,1 @@
-# Typescript Turorials
+# Typescript Tutorials
